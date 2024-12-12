@@ -20,7 +20,7 @@ The structuration of the data is performed using a knowledge schema based on the
 
 ![Screenshot](./.github/img/screenshot.png "Screenshot")
 
-## Objective
+## Objective 
 
 The goal is to create a comprehensive tool allowing users to capitalize technical (such as TTPs and observables) and non-technical information (such as suggested attribution, victimology etc.) while linking each piece of information to its primary source (a report, a MISP event, etc.), with features such as links between each information, first and last seen dates, levels of confidence, etc. The tool is able to use the [MITRE ATT&CK framework](https://attack.mitre.org) (through a [dedicated connector](https://github.com/OpenCTI-Platform/connectors)) to help structure the data. The user can also choose to implement their own datasets.
 
